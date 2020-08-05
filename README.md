@@ -1,6 +1,6 @@
 # Rock Paper Scissor Lizard Spock
 
-Requeriments - **english**
+Requeriments - **english** - [See in browser](https://ramsua.github.io/rock-paper-scissor-lizard-spock/)
 
 - It will be played against the machine.
 - You can set a number of rounds to play.
@@ -11,7 +11,7 @@ Requeriments - **english**
 - The use of frameworks or libraries is not allowed.
 - Template engines or preprocessors can be used.
 
-Requerimientos - **español**
+Requerimientos - **español** - [Ver en el navegador](https://ramsua.github.io/rock-paper-scissor-lizard-spock/)
 
 - Se jugará contra la máquina.
 - Se puede establecer un número de rondas para jugar.
